@@ -18,6 +18,7 @@ python tag_rl_simulation_qlearning.py
 ```
 
 ## 이동가능한 경기장
+```bash
 (0,500) -------------------- (500,500)
    |                            |
    |                            |
@@ -25,3 +26,4 @@ python tag_rl_simulation_qlearning.py
    |   (100,250)    (400,250)   |
    |                            |
 (0,0) ---------------------- (500,0)
+```
